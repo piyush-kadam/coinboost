@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173871804927",
+    "project_id": "coinboost-87828",
+    "storage_bucket": "coinboost-87828.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173871804927:android:f357c8826204d125b4f7ca",
+        "android_client_info": {
+          "package_name": "com.example.coinboost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuZhLqgrM8jEklsxMD45EacBiK9FKoGWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
